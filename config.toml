@@ -113,9 +113,9 @@ media_prefix = "https://api.spreaker.com/v2/episodes/"
 #        pinterest = "mattstratton"
 #        instagram = "instagram"
 #        youtube = "mattstratton"
-    [params.authors.Trevor]
-			name = "Tribulations Photographiques"
-#			thumbnail = "img/default.jpg"
+#    [params.authors.Trevor]
+#			name = "Tribulations Photographiques"
+#			thumbnail = "img/default.png"
 #			bio = ""
 #				[params.authors.Trevor.social]
 #					twitter = "trevorghess"
