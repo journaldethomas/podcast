@@ -60,7 +60,7 @@ site_layout = "grid"
 enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
-# about_logo = "/img/hugocast.png"
+about_logo = "img/logo_podcast.jpg"
 copyright_notice = "Copyright 2018-2019 [Thomas Chauvin](https://www.thomaschauvin.com)"
 itunes_subscribe = "https://itunes.apple.com/fr/podcast/tribulations-photographiques/id1436894828?l=fr"
 android_subscribe = "https://www.subscribeonandroid.com/www.tribulationsphotographiques.com/feed/podcast"
@@ -69,9 +69,9 @@ android_subscribe = "https://www.subscribeonandroid.com/www.tribulationsphotogra
 stitcher_subscribe = "https://www.stitcher.com/podcast/tribulations-photographiques?refid=stpr"
 #soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 pocketcasts_subscribe = "https://pca.st/6l27"
-mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
+#mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "Tribulations Photographiques est un podcast francophone consacré à la photographie. J'y parle de mes différentes tribulations en photographie argentique mais également numérique et tout ce qui tourne autour de cet univers."
+description = "Tribulations Photographiques est un podcast francophone consacré à la photographie."
 media_prefix = "https://api.spreaker.com/v2/episodes/"
   [params.feed]
     copyright = "Copyright 2018 Thomas Chauvin" #do not use markdown in this field; it is used in the feed
@@ -99,10 +99,10 @@ media_prefix = "https://api.spreaker.com/v2/episodes/"
     youtube = "channel/UCrcH3UDWzcTiMsbUFceARhg"
 #    linkedin = "mattstratton"
 
-#  [params.authors]
-#    [params.authors.Matt]
+  [params.authors]
+    [params.authors.Matt]
 #      name	= "Matt Stratton"
-#      thumbnail = "img/host/matt.png"
+      thumbnail = "img/logo_podcast.jpg"
 #      bio = "Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
 #      [params.authors.Matt.social]
 #        github = "mattstratton"
