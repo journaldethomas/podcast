@@ -1,18 +1,10 @@
 ---
-title: "About"
+title: "A propos"
 date: 2019-05-29T22:25:14+02:00
 draft: false
 ---
+Salut ! Je m'appelle Thomas et je suis auteur photographe depuis quelques années. Dès mes débuts, je me suis intéressé à la photographie de paysage et de reportage. Attiré par les lumières complexes, la nécessité de savoir saisir le bon instant… C’est de cette façon que j’aborde la photographie de paysage. Si la photo noir et blanc m’a immédiatement attiré, je me laisse ponctuellement aller à quelques incursions en couleur. L’essentiel de mon travail demeure néanmoins fidèle au noir et blanc. C’est là mon moyen d’expression favori et ma sensibilité. Mon travail est le résultat de mes errances photographiques de tous les jours, principalement en France mais parfois aussi à l’étranger.
+
 Tribulations Photographiques est mon podcast dédié à la photographie. Je partages à travers ce podcast mes expériences et mes différents essais.
 
-Abonnez-vous au podcast avec la technologie que vous désirez :
-
-sur iTunes;
-sur PocketCast;
-sur Google Play Music;
-sur Stitcher.
-Vous pouvez suivre les actualités de Tribulations Photographiques sur les réseaux sociaux :
-
-Twitter : https://twitter.com/tribulationsp
-Facebook : https://www.facebook.com/tribulationsphotographiques
-Instagram : https://www.instagram.com/tribulations_photographiques/
+N'hésitez surtout pas à me faire vos retours par [email](mailto:podcast@thomaschauvin.com).
