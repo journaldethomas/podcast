@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "tribulationsphotographiques.com/"
 languageCode = "en-us"
 title = "Tribulations Photographiques"
 theme = "castanet"
@@ -64,7 +64,7 @@ about_logo = "img/logo_podcast.jpg"
 copyright_notice = "Copyright 2018-2019 [Thomas Chauvin](https://www.thomaschauvin.com)"
 itunes_subscribe = "https://itunes.apple.com/fr/podcast/tribulations-photographiques/id1436894828?l=fr"
 android_subscribe = "https://www.subscribeonandroid.com/www.tribulationsphotographiques.com/feed/podcast"
-#spotify_subscribe = "https://open.spotify.com/show/..."
+spotify_subscribe = "https://open.spotify.com/show/4pWbgGvHLgWefyjlqlsy8h"
 #google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
 stitcher_subscribe = "https://www.stitcher.com/podcast/tribulations-photographiques?refid=stpr"
 #soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
@@ -80,7 +80,7 @@ media_prefix = "https://api.spreaker.com/v2/episodes/"
     itunes_summary = "Tribulations Photographiques est un podcast francophone consacré à la photographie. J'ai voulu créer Tribulations Photographiques pour partager avec vous mes diverses expériences, mes tribulations ainsi que mes derniers coups de cœur." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Thomas Chauvin"
     itunes_owner_email = "podcast@thomaschauvin.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
-    itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
+    itunes_image = "https://www.tribulationsphotographiques.com/static/img/logo_podcast.jpg" #fqdn to the image art for your podcast
     itunes_top_category = "Visual Arts"
     itunes_first_sub_category = "Software How-To"
     itunes_second_sub_category = "Tech News"
