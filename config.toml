@@ -70,7 +70,7 @@ stitcher_subscribe = "https://www.stitcher.com/podcast/tribulations-photographiq
 #soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 pocketcasts_subscribe = "https://pca.st/6l27"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
-#rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
+rss_subscribe = "https://www.spreaker.com/show/3163729/episodes/feed" #only set this if you don't want to use the built-in feed
 description = "Tribulations Photographiques est un podcast francophone consacré à la photographie."
 media_prefix = "https://api.spreaker.com/v2/episodes/"
   [params.feed]
@@ -82,19 +82,17 @@ media_prefix = "https://api.spreaker.com/v2/episodes/"
     itunes_owner_email = "podcast@thomaschauvin.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
     itunes_image = "https://www.tribulationsphotographiques.com/static/img/logo_podcast.jpg" #fqdn to the image art for your podcast
     itunes_top_category = "Visual Arts"
-    itunes_first_sub_category = "Software How-To"
-    itunes_second_sub_category = "Tech News"
+    itunes_first_sub_category = ""
+    itunes_second_sub_category = ""
     language = "fr-fr"
 
   [params.social]
-#    github = "arresteddevops"
-#    gitlab = "mattstratton"
     facebook = "tribulationsphotographiques"
 #    facebook_admin = ["500557137","1234"] # This needs to be one or more page admins to get domain insights
     twitter = "tribulationsp"
     twitter_domain = "tribulationsphotographiques.com" # This domain shows in twitter cards as "View on `twitter_domain`"
 #    googleplus = "ArrestedDevOps"
-#    pinterest = "nozzleio"
+    pinterest = "thomaschauvin"
     instagram = "tribulations_photographiques"
     youtube = "channel/UCrcH3UDWzcTiMsbUFceARhg"
 #    linkedin = "mattstratton"
@@ -126,13 +124,13 @@ media_prefix = "https://api.spreaker.com/v2/episodes/"
 #      [params.authors.Bridget.social]
 #        twitter = "bridgetkromhout"
 
-    [params.links]
-      [params.links.ado]
-        name = "Arrested DevOps"
-        url = "https://www.arresteddevops.com"
-      [params.links.ffs]
-        name = "Food Fight Show"
-        url = "https://foodfightshow.org"
-      [params.links.sdt]
-        name = "Software Defined Talk"
-        url = "https://cote.io/podcasts/sdt/"
+#    [params.links]
+#      [params.links.ado]
+#       name = "Arrested DevOps"
+#        url = "https://www.arresteddevops.com"
+#      [params.links.ffs]
+#        name = "Food Fight Show"
+#        url = "https://foodfightshow.org"
+#      [params.links.sdt]
+#        name = "Software Defined Talk"
+#        url = "https://cote.io/podcasts/sdt/"

@@ -1,7 +1,7 @@
 +++
 Description = "Je ne rentrerais pas lors de ce podcast dans un débat photographique numérique vs argentique."
-Date = 2019-05-30T15:04:54+02:00
-PublishDate = 2019-05-30T15:04:54+02:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2018-10-16T15:04:54+02:00
+PublishDate = 2018-10-16T15:04:54+02:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "15978812/download.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
