@@ -55,8 +55,8 @@ paginate = "9"
 
 [params]
 site_theme = "grey"
-# site_layout = "grid"
-site_layout = "row"
+site_layout = "grid"
+# site_layout = "row"
 enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
