@@ -7,7 +7,6 @@ googleAnalytics = "UA-141127036-1"
 themesdir = "themes/"
 paginate = "9"
 
-
 [permalinks]
 	# page = "/:filename/"
 	about = "/:filename/"
