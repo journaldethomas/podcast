@@ -18,6 +18,22 @@ https://www.spreaker.com/show/tribulations-photographiques
 </link>
 </image>
 <itunes:author>Thomas CHAUVIN</itunes:author>
+<itunes:owner>
+<itunes:name>Thomas CHAUVIN</itunes:name>
+<itunes:email>podcast@thomaschauvin.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c97dd60be1ccf395ad2621c2505cb58.jpg"/>
+<itunes:subtitle>
+Tribulations Photographiques est un podcast francophone consacré à la photographie. J'ai voulu créer Tribulations Photographiques pour partager avec vous mes diverses expériences, mes tribulations ainsi que mes derniers coups de cœur.
+</itunes:subtitle>
+<itunes:summary>
+Tribulations Photographiques est un podcast francophone consacré à la photographie. J'ai voulu créer Tribulations Photographiques pour partager avec vous mes diverses expériences, mes tribulations ainsi que mes derniers coups de cœur.
+</itunes:summary>
+<itunes:category text="Arts">
+<itunes:category text="Visual Arts"/>
+</itunes:category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:type>episodic</itunes:type>
     <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
     {{ with .OutputFormats.Get "RSS" }}
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
