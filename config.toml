@@ -1,4 +1,4 @@
-baseURL = "www.tribulationsphotographiques.com"
+baseURL = "/"
 languageCode = "fr"
 title = "Tribulations Photographiques"
 description = "Tribulations Photographiques est un podcast francophone consacré à la photographie."
@@ -9,9 +9,9 @@ themesdir = "themes/"
 paginate = "9"
 
 [permalinks]
-	# page = "/:filename/"
-	about = "/:filename/"
-	episode = "/:filename/"
+	page = "www.tribulationsphotographiques.com/:filename/"
+	about = "www.tribulationsphotographiques.com/:filename/"
+	episode = "www.tribulationsphotographiques.com/:filename/"
 
 
 # The theme supports menus with up to one submenu per menu item
