@@ -1,7 +1,6 @@
 baseURL = "/"
 languageCode = "fr"
 title = "Tribulations Photographiques"
-description = "Tribulations Photographiques est un podcast francophone consacré à la photographie."
 theme = "castanet"
 googleAnalytics = "UA-141127036-1"
 #disqusShortname = ""
@@ -9,9 +8,9 @@ themesdir = "themes/"
 paginate = "9"
 
 [permalinks]
-	page = "www.tribulationsphotographiques.com/:filename/"
-	about = "www.tribulationsphotographiques.com/:filename/"
-	episode = "www.tribulationsphotographiques.com/:filename/"
+	page = "/:filename/"
+	about = "/:filename/"
+	episode = "/:filename/"
 
 
 # The theme supports menus with up to one submenu per menu item
